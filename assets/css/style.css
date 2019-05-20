@@ -113,6 +113,22 @@ h2 {
   text-transform: capitalize;
 }
 
+#connect {
+  font-size: 20px !important;
+  letter-spacing: 1px;
+  text-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.projects {
+  font-size: 65px !important;
+  letter-spacing: -1px;
+  text-shadow: 4px 19px 20px rgb(99, 95, 95);
+  font-family: 'Poppins', sans-serif;
+  text-transform: capitalize;
+}
+
 h3 {
   font-size: 35px !important;
   letter-spacing: -1px;
